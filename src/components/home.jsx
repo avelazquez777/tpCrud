@@ -13,6 +13,7 @@ const Home = () => {
                 <ul>
                     <li><Link to="/productos">📦 Ver y Gestionar Productos</Link></li>
                     <li><Link to="/nuevos-productos">➕ Agregar Nuevo Producto</Link></li>
+                    <li><Link to="/pokeList">➕ Lista Pokemon</Link></li>
                 </ul>
             </div>
         </Fragment>
